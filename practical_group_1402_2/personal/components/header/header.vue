@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="border text-center   p-5 mb-5   rounded-5">
+    <div class="border text-center p-5 mb-5  rounded-5">
       <h1 class=" title">
         وبسایت شخصی مطالعاتی
       </h1>
